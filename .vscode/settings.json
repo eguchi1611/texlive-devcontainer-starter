@@ -1,0 +1,5 @@
+{
+  "remote.restoreForwardedPorts": false,
+  "latex-workshop.latex.recipe.default": "latexmk (latexmkrc)",
+  "latex-workshop.latex.autoClean.run": "onSucceeded"
+}
